@@ -1,0 +1,112 @@
+﻿A  .agents/skills/developing-genkit-dart/SKILL.md
+A  .agents/skills/developing-genkit-dart/references/genkit.md
+A  .agents/skills/developing-genkit-dart/references/genkit_anthropic.md
+A  .agents/skills/developing-genkit-dart/references/genkit_chrome.md
+A  .agents/skills/developing-genkit-dart/references/genkit_firebase_ai.md
+A  .agents/skills/developing-genkit-dart/references/genkit_google_genai.md
+A  .agents/skills/developing-genkit-dart/references/genkit_mcp.md
+A  .agents/skills/developing-genkit-dart/references/genkit_middleware.md
+A  .agents/skills/developing-genkit-dart/references/genkit_openai.md
+A  .agents/skills/developing-genkit-dart/references/genkit_shelf.md
+A  .agents/skills/developing-genkit-dart/references/schemantic.md
+A  .agents/skills/developing-genkit-js/SKILL.md
+A  .agents/skills/developing-genkit-js/references/best-practices.md
+A  .agents/skills/developing-genkit-js/references/common-errors.md
+A  .agents/skills/developing-genkit-js/references/docs-and-cli.md
+A  .agents/skills/developing-genkit-js/references/examples.md
+A  .agents/skills/developing-genkit-js/references/setup.md
+A  .agents/skills/firebase-ai-logic/SKILL.md
+A  .agents/skills/firebase-ai-logic/references/usage_patterns_web.md
+A  .agents/skills/firebase-app-hosting-basics/SKILL.md
+A  .agents/skills/firebase-app-hosting-basics/references/cli_commands.md
+A  .agents/skills/firebase-app-hosting-basics/references/configuration.md
+A  .agents/skills/firebase-app-hosting-basics/references/emulation.md
+A  .agents/skills/firebase-auth-basics/SKILL.md
+A  .agents/skills/firebase-auth-basics/references/client_sdk_web.md
+A  .agents/skills/firebase-auth-basics/references/security_rules.md
+A  .agents/skills/firebase-basics/SKILL.md
+A  .agents/skills/firebase-basics/references/firebase-cli-guide.md
+A  .agents/skills/firebase-basics/references/firebase-project-create.md
+A  .agents/skills/firebase-basics/references/firebase-service-init.md
+A  .agents/skills/firebase-basics/references/local-env-setup.md
+A  .agents/skills/firebase-basics/references/refresh-antigravity.md
+A  .agents/skills/firebase-basics/references/refresh-claude.md
+A  .agents/skills/firebase-basics/references/refresh-gemini-cli.md
+A  .agents/skills/firebase-basics/references/refresh-other-agents.md
+A  .agents/skills/firebase-basics/references/setup-antigravity.md
+A  .agents/skills/firebase-basics/references/setup-claude_code.md
+A  .agents/skills/firebase-basics/references/setup-cursor.md
+A  .agents/skills/firebase-basics/references/setup-gemini_cli.md
+A  .agents/skills/firebase-basics/references/setup-github_copilot.md
+A  .agents/skills/firebase-basics/references/setup-other_agents.md
+A  .agents/skills/firebase-basics/references/web_setup.md
+A  .agents/skills/firebase-data-connect/SKILL.md
+A  .agents/skills/firebase-data-connect/examples.md
+A  .agents/skills/firebase-data-connect/reference/advanced.md
+A  .agents/skills/firebase-data-connect/reference/config.md
+A  .agents/skills/firebase-data-connect/reference/operations.md
+A  .agents/skills/firebase-data-connect/reference/schema.md
+A  .agents/skills/firebase-data-connect/reference/sdks.md
+A  .agents/skills/firebase-data-connect/reference/security.md
+A  .agents/skills/firebase-data-connect/templates.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/SKILL.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/references/data_model.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/references/indexes.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/references/provisioning.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/references/python_sdk_usage.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/references/security_rules.md
+A  .agents/skills/firebase-firestore-enterprise-native-mode/references/web_sdk_usage.md
+A  .agents/skills/firebase-firestore-standard/SKILL.md
+A  .agents/skills/firebase-firestore-standard/references/indexes.md
+A  .agents/skills/firebase-firestore-standard/references/provisioning.md
+A  .agents/skills/firebase-firestore-standard/references/security_rules.md
+A  .agents/skills/firebase-firestore-standard/references/web_sdk_usage.md
+A  .agents/skills/firebase-hosting-basics/SKILL.md
+A  .agents/skills/firebase-hosting-basics/references/configuration.md
+A  .agents/skills/firebase-hosting-basics/references/deploying.md
+A  .firebase/hosting.cHVibGlj.cache
+A  .firebaserc
+A  .github/workflows/firebase-hosting-merge.yml
+A  .github/workflows/firebase-hosting-pull-request.yml
+ M .gitignore
+A  firebase.json
+MM package-lock.json
+MM package.json
+A  public/index.html
+A  skills-lock.json
+MM src/App.tsx
+ M src/assets/ieee-logo.png
+ M src/assets/snr-trust-logo.png
+M  src/components/AboutSection.tsx
+MD src/components/ActivitiesSection.tsx
+M  src/components/CollegeAboutSection.tsx
+ M src/components/Footer.tsx
+MM src/components/HeroSection.tsx
+MM src/components/Navbar.tsx
+ M src/components/OfficeBearersSection.tsx
+M  src/components/SocietiesSection.tsx
+A  src/components/TestimonialsMarqueeSection.tsx
+ M src/pages/AboutPage.tsx
+AM src/pages/ActivitiesPage.tsx
+ M src/pages/AdminDashboard.tsx
+ M src/pages/AwardsPage.tsx
+ D src/pages/EventsPage.tsx
+MM src/pages/Index.tsx
+ M src/pages/MembersPage.tsx
+M  tailwind.config.ts
+AM yarn.lock
+?? src/components/BenefitsSection.tsx
+?? src/components/FAQSection.tsx
+?? src/components/ImpactSection.tsx
+?? src/components/LatestHighlightsSection.tsx
+?? src/components/NewsletterCTA.tsx
+?? src/components/StatsSection.tsx
+?? src/hooks/useCountUp.ts
+?? src/pages/AdminLoginPage.tsx
+?? src/pages/AnnualPlansPage.tsx
+?? src/pages/FundingsPlanPage.tsx
+?? src/pages/Gallery.tsx
+?? src/pages/SeniorMembersPage.tsx
+?? src/pages/Team.tsx
+?? status.txt
+?? tmp/
